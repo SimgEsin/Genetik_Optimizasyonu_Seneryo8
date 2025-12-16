@@ -27,7 +27,8 @@ Proje Python kullanılarak geliştirilmiş ve aşağıdaki genetik operatörleri
 
 ##  Sonuçlar
 Algoritma çalıştırıldığında, nesiller ilerledikçe performans skorunun arttığı ve optimum CPU/RAM değerlerine yakınsadığı gözlemlenmiştir.
-<img width="1125" height="673" alt="image" src="https://github.com/user-attachments/assets/403a32fe-1b10-4ae8-93e9-450be32f0089" />
+<img width="1079" height="685" alt="image" src="https://github.com/user-attachments/assets/b919c617-37e3-4c4a-a650-f834c9de4862" />
+
 
 
 ##  Kurulum ve Çalıştırma
