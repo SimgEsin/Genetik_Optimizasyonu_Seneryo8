@@ -1,0 +1,1 @@
+# Genetik_Optimizasyonu_Seneryo8
