@@ -30,7 +30,7 @@ Algoritma çalıştırıldığında, nesiller ilerledikçe performans skorunun a
 <img width="1125" height="673" alt="image" src="https://github.com/user-attachments/assets/403a32fe-1b10-4ae8-93e9-450be32f0089" />
 
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 1. `.ipynb` dosyasını Google Colab veya Jupyter Notebook ile açın.
 2. Tüm hücreleri sırasıyla çalıştırın.
 3. Sonuç grafiği en altta görüntülenecektir.
