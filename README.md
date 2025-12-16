@@ -27,7 +27,8 @@ Proje Python kullanılarak geliştirilmiş ve aşağıdaki genetik operatörleri
 
 ## 📊 Sonuçlar
 Algoritma çalıştırıldığında, nesiller ilerledikçe performans skorunun arttığı ve optimum CPU/RAM değerlerine yakınsadığı gözlemlenmiştir.
-(Buraya kod çıktısındaki grafiği ekran görüntüsü alıp ekleyebilirsin)
+<img width="1125" height="673" alt="image" src="https://github.com/user-attachments/assets/403a32fe-1b10-4ae8-93e9-450be32f0089" />
+
 
 ## 🚀 Kurulum ve Çalıştırma
 1. `.ipynb` dosyasını Google Colab veya Jupyter Notebook ile açın.
